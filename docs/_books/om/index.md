@@ -7,7 +7,7 @@ book_id: om
 
 # The Eternal OM: A Complete Guide to the Primordial Sound of the Universe
 
-[View Changelog](changelog) | [View Roadmap](roadmap)
+[View Changelog]({{ site.baseurl }}/books/om/changelog) | [View Roadmap]({{ site.baseurl }}/books/om/roadmap)
 
 ## Table of Contents
 
