@@ -2,12 +2,12 @@
 layout: page
 title: "OmBook Changelog"
 description: "Track changes and updates to The Eternal OM"
-permalink: /experimental-books/books/ombook/changelog/
+permalink: /books/ombook/changelog/
 ---
 
 # Changelog
 
-[← Back to Book](/experimental-books/books/ombook/) | [View Roadmap →](/experimental-books/books/ombook/roadmap/)
+[← Back to Book](/books/ombook/) | [View Roadmap →](/books/ombook/roadmap/)
 
 All notable changes to ombook.md will be documented in this file.
 

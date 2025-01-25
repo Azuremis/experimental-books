@@ -2,12 +2,12 @@
 layout: page
 title: "OmBook Roadmap"
 description: "Upcoming improvements and future plans for The Eternal OM"
-permalink: /experimental-books/books/ombook/roadmap/
+permalink: /books/ombook/roadmap/
 ---
 
 # Roadmap
 
-[← Back to Book](/experimental-books/books/ombook/) | [View Changelog ←](/experimental-books/books/ombook/changelog/)
+[← Back to Book](/books/ombook/) | [View Changelog ←](/books/ombook/changelog/)
 
 This document outlines the planned improvements and future direction for ombook.md.
 
