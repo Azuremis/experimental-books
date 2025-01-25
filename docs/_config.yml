@@ -21,8 +21,8 @@
 title: "The Eternal OM"
 email: your-email@example.com
 description: "A Complete Guide to the Primordial Sound of the Universe"
-baseurl: "" # leave empty if serving from root
-url: "" # your GitHub Pages URL will go here
+baseurl: "/experimental-books" # the subpath of your site
+url: "https://azuremis.github.io" # your GitHub Pages URL
 
 # Build settings
 theme: minima
@@ -38,8 +38,8 @@ minima:
   skin: classic
   
 # Social links (optional)
-github_username: your-username
-# twitter_username: your-username
+github_username: azuremis
+twitter_username: azuremis
 
 # Exclude development-specific files
 exclude:
