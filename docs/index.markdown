@@ -4,11 +4,12 @@
 
 layout: home
 title: "Experimental Books"
+description: "Exploring the future of manuscript generation through AI-assisted writing"
 ---
 
-# Welcome to Experimental Books
+# Welcome
 
-Exploring the future of manuscript generation through AI-assisted writing. Our current featured work is "The Eternal OM" - a comprehensive exploration of the primordial sound that shapes our universe.
+Exploring the future of manuscript generation through AI-assisted writing. Our current featured work explores the primordial sound that shapes our universe.
 
 ## Featured Work
 

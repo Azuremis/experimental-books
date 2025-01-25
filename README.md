@@ -21,3 +21,6 @@ This project uses GitHub Pages with Jekyll for publishing. Visit the [live site]
 
 ## Status
 🌟 This is an experimental project exploring the intersection of AI and manuscript generation. All content is generated to inspire and explore new possibilities in digital publishing.
+
+## Progress
+See the [progress log](progress.md) for a detailed account of the project's development.
