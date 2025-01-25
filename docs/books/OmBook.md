@@ -3,7 +3,6 @@ layout: page
 title: "The Eternal OM"
 description: "A Complete Guide to the Primordial Sound of the Universe"
 permalink: /books/ombook
-nav_order: 1
 ---
 
 # The Eternal OM: A Complete Guide to the Primordial Sound of the Universe
