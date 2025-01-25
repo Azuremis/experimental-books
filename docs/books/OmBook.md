@@ -2,7 +2,7 @@
 layout: page
 title: "The Eternal OM"
 description: "A Complete Guide to the Primordial Sound of the Universe"
-permalink: /books/ombook/
+permalink: /experimental-books/books/ombook/
 ---
 
 # The Eternal OM: A Complete Guide to the Primordial Sound of the Universe
