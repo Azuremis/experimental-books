@@ -9,7 +9,7 @@ permalink: /experimental-books/books/ombook/roadmap/
 
 [← Back to Book](/experimental-books/books/ombook/) | [View Changelog ←](/experimental-books/books/ombook/changelog/)
 
-This document outlines the planned improvements and future direction for OmBook.md.
+This document outlines the planned improvements and future direction for ombook.md.
 
 ## Short Term (Next 3 Months)
 
