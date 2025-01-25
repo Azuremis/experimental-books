@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "OmBook"
-permalink: /books/ombook/
+permalink: /books/ombook
 ---
 
 # The Eternal OM: A Complete Guide to the Primordial Sound of the Universe
