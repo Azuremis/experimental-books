@@ -7,7 +7,7 @@ permalink: /experimental-books/books/ombook/
 
 # The Eternal OM: A Complete Guide to the Primordial Sound of the Universe
 
-  
+[View Changelog](/experimental-books/books/ombook/changelog/) | [View Roadmap](/experimental-books/books/ombook/roadmap/)
 
 ## Table of Contents
 

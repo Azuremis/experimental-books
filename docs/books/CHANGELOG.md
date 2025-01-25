@@ -7,6 +7,8 @@ permalink: /experimental-books/books/ombook/changelog/
 
 # Changelog
 
+[← Back to Book](/experimental-books/books/ombook/) | [View Roadmap →](/experimental-books/books/ombook/roadmap/)
+
 All notable changes to OmBook.md will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
