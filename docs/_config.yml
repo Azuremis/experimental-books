@@ -33,6 +33,7 @@ plugins:
 header_pages:
   - books/ombook.md
   - books/CHANGELOG.md
+  - books/ROADMAP.md
 
 # Theme-specific settings
 minima:
