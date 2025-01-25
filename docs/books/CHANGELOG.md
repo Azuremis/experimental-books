@@ -2,7 +2,7 @@
 layout: page
 title: "OmBook Changelog"
 description: "Track changes and updates to The Eternal OM"
-permalink: /books/ombook/changelog/
+permalink: /experimental-books/books/ombook/changelog/
 ---
 
 # Changelog

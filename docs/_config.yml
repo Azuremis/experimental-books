@@ -32,6 +32,7 @@ plugins:
 # Navigation
 header_pages:
   - books/ombook.md
+  - books/CHANGELOG.md
 
 # Theme-specific settings
 minima:
