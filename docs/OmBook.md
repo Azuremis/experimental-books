@@ -1,6 +1,6 @@
 layout: page
 title: "OmBook"
-permalink: https://azuremis.github.io/experimental-books/books/ombook/ombook.md
+permalink: /books/ombook/
 
 # The Eternal OM: A Complete Guide to the Primordial Sound of the Universe
 
