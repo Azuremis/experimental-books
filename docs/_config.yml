@@ -29,11 +29,15 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Collections
+collections:
+  books:
+    output: true
+    permalink: /books/:path/
+
 # Navigation
 header_pages:
-  - books/ombook.md
-  - books/CHANGELOG.md
-  - books/ROADMAP.md
+  - books.md
 
 # Theme-specific settings
 minima:
